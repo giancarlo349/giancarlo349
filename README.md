@@ -10,4 +10,6 @@ Me chamo Giancarlo, tenho 18 anos.
 
 ⚡ Fato interessante: Estudei cyberseguranca e hoje em dia programo como hobbie.
 
-🍃 Trabalhos Passados: https://donalu.odoo.com/doces
+🍃 Trabalhos Passados: https://donalu.odoo.com
+
+📞 Contato: giancarlo349sub@gmail.com // (11) 99818-1091

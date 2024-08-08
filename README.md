@@ -10,4 +10,4 @@ Me chamo Giancarlo, tenho 18 anos.
 
 
 
-⚡ Fato interessante: Estudei cyberseguranca e atualmente programo como hobbie.
+⚡ Fato interessante: Estudei cyberseguranca e hoje em dia programo como hobbie.

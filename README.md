@@ -8,6 +8,6 @@ Me chamo Giancarlo, tenho 18 anos.
 
 🤔 Para saber mais sobre meu trabalho e orçamentos, acesse: https://google.com 
 
-
-
 ⚡ Fato interessante: Estudei cyberseguranca e hoje em dia programo como hobbie.
+
+🍃 Trabalhos Passados: https://donalu.odoo.com/doces

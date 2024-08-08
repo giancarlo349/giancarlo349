@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**giancarlo349/giancarlo349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Giancarlo, tenho 18 anos.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalho como atendente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👾 Mas desenvolvo sites nas horas vagas.
+
+🤔 Para saber mais sobre meu trabalho e orçamentos, acesse: https://google.com 
+
+
+
+⚡ Fato interessante: Estudei cyberseguranca e atualmente programo como hobbie.

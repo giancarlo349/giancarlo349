@@ -6,7 +6,7 @@ Me chamo Giancarlo, tenho 18 anos.
 
 👾 Mas desenvolvo sites nas horas vagas.
 
-🤔 Para saber mais sobre meu trabalho e orçamentos, acesse: https://google.com 
+🤔 Para saber mais sobre meu trabalho e orçamentos, acesse: https://deemo.odoo.com
 
 ⚡ Fato interessante: Estudei cyberseguranca e hoje em dia programo como hobbie.
 

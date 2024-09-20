@@ -8,7 +8,7 @@ Me chamo Giancarlo, tenho 18 anos.
 
 ⚡ Fato interessante: Estudo programação, cyberseguranca, e tudo que envolve tecnologia :)
 
-🧪 Tenho conhecimentos em: Python, segurança cibernética, Protocolos HTTP, API Rest, Banco de dados, IA...
+🧪 Tenho conhecimentos em: Python, segurança cibernética, Protocolos HTTP, API Rest, Banco de dados, IA, GIT...
 
 🍃 Trabalhos Passados: https://dona.lu
 

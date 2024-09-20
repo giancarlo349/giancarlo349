@@ -10,6 +10,6 @@ Me chamo Giancarlo, tenho 18 anos.
 
 🧪 Tenho conhecimentos em: Python, segurança cibernética, Protocolos HTTP, API Rest, Banco de dados, IA, GIT...
 
-🍃 Trabalhos Passados: https://dona.lu
+🍃 Trabalhos Passados: https://www.dona.lu
 
 📞 Contato: giancarlo349sub@gmail.com // (11) 99818-1091

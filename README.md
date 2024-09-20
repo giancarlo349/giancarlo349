@@ -4,11 +4,9 @@ Me chamo Giancarlo, tenho 18 anos.
 
 🔭 Atualmente trabalho como atendente.
 
-👾 Mas desenvolvo sites nas horas vagas.
+👾 Mas atuo como Bug Bounty Hunter nas horas vagas 👉 https://hackerone.com/dee_giancarlo
 
-🤔 Para saber mais sobre meu trabalho e orçamentos, acesse: https://deemo.odoo.com
-
-⚡ Fato interessante: Estudei cyberseguranca e hoje em dia programo como hobbie.
+⚡ Fato interessante: Estudo programacao, cyberseguranca, e tudo envolvendo tecnologia.
 
 🍃 Trabalhos Passados: https://donalu.odoo.com
 

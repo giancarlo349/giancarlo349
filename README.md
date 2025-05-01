@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Giancarlo, tenho 18 anos.
+Me chamo Giancarlo, tenho 19 anos.
 
 🧪 Tenho conhecimentos em: Python, segurança cibernética, Protocolos HTTP, API Rest, Banco de dados, IA, GIT...
 

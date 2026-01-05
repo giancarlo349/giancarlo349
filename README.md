@@ -2,6 +2,11 @@
 
 Me chamo Giancarlo, tenho 19 anos.
 
-🧪 Tenho conhecimentos em: Python, segurança cibernética, Protocolos HTTP, API Rest, Banco de dados, IA, GIT...
+🔐 Estudo **Cibersegurança**, com foco em **Pentest e Bug Bounty**, utilizando plataformas como **Hack The Box** e **PortSwigger (Web Security Academy)**.
 
-📞 Contato: giancarlo349sub@gmail.com // (11) 99818-1091
+🐞 Possuo conta **verificada na HackerOne**, com pelo menos **1 bug válido e remunerado**  
+👉 https://hackerone.com/dee_giancarlo?type=user
+
+📞 Contato:  
+📧 giancarlo349sub@gmail.com  
+📱 (11) 99818-1091

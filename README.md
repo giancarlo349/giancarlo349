@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Giancarlo, tenho 19 anos.
+Me chamo Giancarlo, tenho 20 anos.
 
 🔐 Estudo **Cibersegurança**, com foco em **Pentest e Bug Bounty**, utilizando plataformas como **Hack The Box** e **PortSwigger (Web Security Academy)**.
 
